@@ -12,12 +12,10 @@ gap: 10px;
 .dd{
     border: 1px solid black;
     background-color: grey;
-    
-
 
 
 }
 #ad{
     grid-column-start: 1;
-    grid grid-column-end: 4;
+    grid-column-end:4 ;
 }
